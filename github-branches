@@ -1,0 +1,5 @@
+theia@theia-othnielamd:/home/project/mcino-Introduction-to-Git-and-GitHub$ 
+git branch -vv
+  bug-fix-revert 0651996 Revert "Added bug-fix-typo"
+  bug-fix-typo   4051a6e [origin/bug-fix-typo] Added bug-fix-typo
+* main           1b955a4 [origin/main] new file bug-fix-revert
