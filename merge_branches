@@ -1,0 +1,10 @@
+theia@theia-othnielamd:/home/project/mcino-Introduction-to-Git-and-GitHu
+b$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+theia@theia-othnielamd:/home/project/mcino-Introduction-to-Git-and-GitHu
+b$ git merge bug-fix-typo
+Updating 827293c..4051a6e
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
